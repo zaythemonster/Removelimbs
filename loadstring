@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/HatredZay/Removelimbs/main/Removelimbs.lua'))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/HatredZay/Removelimbs/main/Removelimbs.lua'),true))()
